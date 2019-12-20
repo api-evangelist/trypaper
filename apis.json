@@ -1,0 +1,65 @@
+{
+    "name": "TryPaper",
+    "description": "Print, stuff, and mail documents\/letters\/more with one API",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1592-trypaper.jpg",
+    "tags": [
+        "have api",
+        "mail",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trypaper\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TryPaper",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1592-trypaper.jpg",
+            "humanURL": "https:\/\/www.trypaper.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trypaper-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.trypaper.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.trypaper.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trypaper"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trypaper"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.trypaper.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/trypaper"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TryPaper"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.trypaper.com"
+        }
+    ]
+}
